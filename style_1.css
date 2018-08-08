@@ -1,0 +1,47 @@
+html {
+	height: 100%;
+	margin: 0;
+}
+body {
+	height: 100%;
+	margin: 0;
+}
+#header {
+	width: 10%;
+	background-color: #65a5fa;
+	height: 100%;
+}
+.left {
+	padding: 2% 1%;
+	float: left;
+	height: 100%;
+	/*display: block;*/
+	text-align: center;
+	background-color: #65a5fa;
+}
+#jianli {
+	width: 85%;
+	font-size: 30px;
+	font-weight: bold;
+	margin: 5%;
+	padding: 3%;
+	color: white;
+	text-align: center;
+}
+.right {
+	float: left;
+	width: 86%;
+	padding-left: 2%;
+	background-color: white;
+	height: 100%;
+}
+.td2 {
+	margin-bottom: 4%;
+}
+.h3 {
+	font-weight: bold;
+	float: left;
+}
+.p {
+	float: left;
+}
